@@ -40,14 +40,14 @@ The server seamlessly communicates with the frontend part of the Japfood applica
    cd japfood-server
    ```
 
-   2. Configure your server environment (e.g., Apache) to serve PHP files.
+2. Configure your server environment (e.g., Apache) to serve PHP files.
 
-   3. Import the japfood.sql file into your MySQL database.
+3. Import the japfood.sql file into your MySQL database.
 
-   4. Update the database connection details in the PHP files as needed.
+4. Update the database connection details in the PHP files as needed.
 
-   5. Start using the server in conjunction with the Japfood frontend application.
+5. Start using the server in conjunction with the Japfood frontend application.
 
-   ## Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions, found a bug, or want to contribute to the project, please open an issue or submit a pull request.
