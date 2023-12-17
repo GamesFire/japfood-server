@@ -19,3 +19,5 @@ try {
   echo json_encode($response);
   exit;
 }
+
+$conn->set_charset("utf8mb4");
